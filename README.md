@@ -59,10 +59,10 @@
 </div>
 
 ###
-<div align="center">
-<img height="170" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"  />
+<div>
+<img align="right" height="170" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"  />
 
-<img src="./snake.svg" alt="Snake animation" />
+<img align="left" src="./snake.svg" alt="Snake animation" />
 </div>
 
 ###
