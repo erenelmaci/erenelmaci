@@ -62,7 +62,7 @@
 <div>
 <img align="right" height="170" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"  />
 
-<img width="500" align="left" src="./snake.svg" alt="Snake animation" />
+<img width="500" height="170" align="left" src="./snake.svg" alt="Snake animation" />
 </div>
 
 ###
