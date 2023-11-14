@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Eren and I'm a Full Stack Web developer from Turkey</h2>
+<h2 align="center">Hi 👋! My name is Eren and I'm a Full Stack Web & Mobile developer from Turkey</h2>
 
 ###
 
